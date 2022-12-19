@@ -1,0 +1,86 @@
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\Hero\Hero\bin\Debug\Hero.exe.config
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\Hero\Hero\obj\Debug\Hero.exe
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\Hero\Hero\obj\Debug\Hero.pdb
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\Hero.exe.config
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\Hero.exe
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\Hero.pdb
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\ILovePdf.dll
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\itextsharp.dll
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\JWT.dll
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\StringInterpolationBridge.dll
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\ILovePdf.xml
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\itextsharp.xml
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\BigHero.csprojResolveAssemblyReference.cache
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\Hero.BigHero.resources
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\Hero.Properties.Resources.resources
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\BigHero.csproj.GenerateResource.Cache
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\Hero.exe
+C:\Users\SASIC-RIUK\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\Hero.pdb
+C:\Users\Sasic-Riukasan\Documents\Visual Studio 2015\Projects\BigHero\Hero\bin\Debug\Hero.exe.config
+C:\Users\Sasic-Riukasan\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\Hero.exe
+C:\Users\Sasic-Riukasan\Documents\Visual Studio 2015\Projects\BigHero\Hero\obj\Debug\Hero.pdb
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\Hero.exe.config
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\Hero.exe
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\Hero.pdb
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\ILovePdf.dll
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\itextsharp.dll
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\JWT.dll
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\Newtonsoft.Json.dll
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\SautinSoft.PdfFocus.dll
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\StringInterpolationBridge.dll
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\ILovePdf.xml
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\itextsharp.xml
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\bin\Debug\Newtonsoft.Json.xml
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\BigHero.csprojAssemblyReference.cache
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\Hero.BigHero.resources
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\Hero.Properties.Resources.resources
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\BigHero.csproj.GenerateResource.cache
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\BigHero.csproj.CoreCompileInputs.cache
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\BigHero.csproj.CopyComplete
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\Hero.exe
+F:\Proyectos RIUKASAN\Copiado 24-06-2020\BigHero\Hero\obj\Debug\Hero.pdb
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Hero.exe.config
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Hero.exe
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Hero.pdb
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\ILovePdf.dll
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\itextsharp.dll
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\JWT.dll
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Newtonsoft.Json.dll
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\SautinSoft.PdfFocus.dll
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\StringInterpolationBridge.dll
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\itextsharp.xml
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Newtonsoft.Json.xml
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csprojAssemblyReference.cache
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Hero.BigHero.resources
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Hero.Properties.Resources.resources
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csproj.GenerateResource.cache
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csproj.CoreCompileInputs.cache
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csproj.CopyComplete
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Hero.exe
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Hero.pdb
+F:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\jose-jwt.dll
+F:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Hero.exe.config
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csprojAssemblyReference.cache
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Baymax.exe.config
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Baymax.Properties.Resources.resources
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csproj.GenerateResource.cache
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csproj.CoreCompileInputs.cache
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Baymax.exe.config
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Baymax.exe
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Baymax.pdb
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\ILovePdf.dll
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\itextsharp.dll
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\jose-jwt.dll
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\JWT.dll
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Newtonsoft.Json.dll
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\SautinSoft.PdfFocus.dll
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\StringInterpolationBridge.dll
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\itextsharp.xml
+E:\Proyectos RIUKASAN\BigHero\Hero\bin\Debug\Newtonsoft.Json.xml
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Baymax.BigBaymax.resources
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\BigHero.csproj.CopyComplete
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Baymax.exe
+E:\Proyectos RIUKASAN\BigHero\Hero\obj\Debug\Baymax.pdb
